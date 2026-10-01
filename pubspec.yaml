@@ -5,3 +5,6 @@ homepage: https://github.com/MobileConduit
 repository: https://github.com/MobileConduit/flutter-offline-sync-engine
 environment:
   sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.24.0
