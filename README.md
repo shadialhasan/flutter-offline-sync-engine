@@ -1,5 +1,8 @@
 # 🔄 flutter-offline-sync-engine
 
+> **Topics:** `flutter` `offline-first` `sync-engine` `data-synchronization` `queue` `mobile-architecture` `dart`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-offline-sync-engine/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x%20Ready-blue.svg)](https://flutter.dev)

@@ -1,0 +1,12 @@
+{
+  "description": "Offline-first transactional queue and synchronization engine for resilient Flutter mobile applications",
+  "topics": [
+    "flutter",
+    "offline-first",
+    "sync-engine",
+    "data-synchronization",
+    "queue",
+    "mobile-architecture",
+    "dart"
+  ]
+}
