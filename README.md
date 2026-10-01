@@ -1,5 +1,6 @@
 # 🔄 flutter-offline-sync-engine
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-offline-sync-engine/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x%20Ready-blue.svg)](https://flutter.dev)
 [![Architecture: Offline-First](https://img.shields.io/badge/Pattern-Offline--First-brightgreen.svg)](https://github.com/MobileConduit)
@@ -23,6 +24,16 @@ stateDiagram-v2
     ServerAck --> Idle: Queue Drained
 ```
 
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/flutter-offline-sync-engine.git
+cd flutter-offline-sync-engine
+dart pub get
+```
+
 ## 🚀 Usage
 
 ```dart
@@ -41,6 +52,14 @@ engine.setConnectivity(true);
 ```
 
 ---
+
+---
+
+## 🧪 Running Automated Tests
+
+```bash
+dart test
+```
 
 ## 👤 Author & Maintainer
 
