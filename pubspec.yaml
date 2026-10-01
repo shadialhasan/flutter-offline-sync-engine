@@ -1,0 +1,7 @@
+name: flutter_offline_sync_engine
+description: High-reliability offline-first synchronization queue for Flutter apps.
+version: 1.0.0
+homepage: https://github.com/MobileConduit
+repository: https://github.com/MobileConduit/flutter-offline-sync-engine
+environment:
+  sdk: ">=3.0.0 <4.0.0"
